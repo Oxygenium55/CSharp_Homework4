@@ -24,3 +24,4 @@ void Degree(int a, int b)
 int numberA = UserNumber("Введите число: ");
 int numberB = UserNumber("Введите степень: ");
 Degree(numberA, numberB);
+
